@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>1075591895020-crgf2kcagreosior27pp45akj9ki0167.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.1075591895020-crgf2kcagreosior27pp45akj9ki0167</string>
+	<key>API_KEY</key>
+	<string>AIzaSyB_FvzTN7Vk34MG6OTb4lj9xBuMXlc4Xuc</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1075591895020</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.naratama.presence</string>
+	<key>PROJECT_ID</key>
+	<string>presence-fed21</string>
+	<key>STORAGE_BUCKET</key>
+	<string>presence-fed21.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1075591895020:ios:a1a3c4d7aa8db199ac12c9</string>
+</dict>
+</plist>
